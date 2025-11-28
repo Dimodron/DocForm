@@ -87,3 +87,15 @@
 ```
 
 Вся вставленная информация вместо плейсхолдеров будет перенимать их `Цвет`,`Стиль`,`Шрифт`,`Размер` и тд.
+
+### Скрины
+
+<img width="1915" height="1004" alt="изображение" src="https://github.com/user-attachments/assets/8d9b267e-1a36-40cb-b594-e93e3f0fe900" />
+
+<img width="1004" height="315" alt="изображение" src="https://github.com/user-attachments/assets/fc0f82be-d680-4af7-9f24-5650787f7eb2" />
+
+<img width="1076" height="596" alt="изображение" src="https://github.com/user-attachments/assets/62234b3d-02d6-4282-aedd-f2c7db632048" />
+
+
+
+
